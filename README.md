@@ -1,4 +1,10 @@
 ## Hello World, My name is Isaque Samuel!👋
+<div>
+  <img heigth="180px" src="https://github-readme-stats.vercel.app/api?username=DeveloperIsaque&show_icons=true&theme=dark"/>
+  <img heigth="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperIsaque&layout=donut&theme=dark"/>
+</div>
+
+
 ###### My 'README.md' is under construction
 
 <!--
