@@ -1,7 +1,7 @@
 ## Hello World, My name is Isaque Samuel!👋
 <div>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=DeveloperIsaque&show_icons=true&theme=dark"/>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
+  <img heigth="180 px" src="https://github-readme-stats.vercel.app/api?username=DeveloperIsaque&show_icons=true&theme=dark"/>
+  <img heigth="180 px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperIsaque&layout=compact&theme=dark"/>
 </div>
 
 
