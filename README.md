@@ -1,4 +1,7 @@
 ## Hello World, My name is Isaque Samuel!👋
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
 <div>
   <img heigth="180 px" src="https://github-readme-stats.vercel.app/api?username=DeveloperIsaque&show_icons=true&theme=dark"/>
   <img heigth="180 px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperIsaque&layout=compact&theme=dark"/>
@@ -6,16 +9,16 @@
 
 
 
- ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <h3> Técnologias que eu utilizo </h3>
 
 <div style="display: inline_block"> <br/>
     <img heigth="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-    <img heigth="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img heigth="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img heigth="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+    <img heigth="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    <img Heigth="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+          
 </div> <br/>
-
 
 <!-- 
 Mudar os 'contatos' para baixo do 'Hello world...'
