@@ -28,5 +28,4 @@
 
 <div>
     <img heigth="100px" width="100px" src="https://cs50.gallerycdn.vsassets.io/extensions/cs50/ddb50/1.1.2/1691002683906/Microsoft.VisualStudio.Services.Icons.Default"/>
-    <img heigth="200px" width="200px" src="https://repository-images.githubusercontent.com/763806071/edbb6774-0329-4dc1-8030-d9ca99f51e5b"/>
 </div>
