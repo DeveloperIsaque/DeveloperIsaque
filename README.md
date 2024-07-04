@@ -3,6 +3,7 @@
 ##### "Apaixonado por Programação, aos 20 anos agora foco totalmente na área. No prazer ao ser testado, me desafio constantemente a criar alguns pequenos projetos no momento, com foco a criar grandes coisas no futuro!"
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/isaque-cardoso-628881250)
+![snake gif](https://github.com/DeveloperIsaque/DeveloperIsaque/blob/output/github-contribution-grid-snake.svg)
 
 <div>
     <img height="180 px" src="https://github-readme-stats.vercel.app/api?username=DeveloperIsaque&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
