@@ -5,8 +5,9 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/isaque-cardoso-628881250)
 
 <div>
-    <img heigth="180 px" src="https://github-readme-stats.vercel.app/api?username=DeveloperIsaque&show_icons=true&theme=dark"/>
-    <img heigth="180 px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperIsaque&layout=compact&theme=dark"/>
+    <img height="180 px" src="https://github-readme-stats.vercel.app/api?username=DeveloperIsaque&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+    <img height="180 px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DeveloperIsaque&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+    <img height="180 px" src="https://streak-stats.demolab.com/?user=DeveloperIsaque&theme=dark&background=000&border=30A3DC&dates=FFF"/>
 </div>
 
 <h1> Técnologias que eu utilizo </h1>
