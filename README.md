@@ -23,10 +23,14 @@
 
 <div style="display: inline_block"> <br/>
     <img Heigth="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+    <img heigth="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+    <img heigth="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+    <img heigth="75px" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 </div> <br/>
 
 <h1>Cursos em andamento</h1>
 
 <div>
     <img heigth="100px" width="100px" src="https://cs50.gallerycdn.vsassets.io/extensions/cs50/ddb50/1.1.2/1691002683906/Microsoft.VisualStudio.Services.Icons.Default"/>
+    <img heigth="100px" width="100px" src="https://i.pinimg.com/564x/35/e4/d2/35e4d2af6e355d992202df8b7856a405.jpg"/>
 </div>
